@@ -1,4 +1,4 @@
-# Sign-Up Form
+# 🚀 Sign-Up Form
 
 [The Sign-Up Form](https://bogdanblare.github.io/Sign-Up-Form/) is a web application that allows users to create and submit their personal information for registration. This project provides a simple and user-friendly interface for individuals to input their details such as name, email address, password, and phone number. The form also includes validation rules to ensure that the information entered is accurate and complete.
 
@@ -8,6 +8,6 @@ Additionally, the Sign-Up Form project offers a responsive design, making it acc
 
 Overall, the Sign-Up Form project is a practical solution for any website or online service that requires user registration. It streamlines the registration process, improves data accuracy, and enhances user satisfaction.
 
-  ## Screenshots
+  ## 📸 Screenshots
 
 ![App Screenshot](https://raw.githubusercontent.com/bogdanblare/Sign-Up-Form/main/Screenshot.png)
