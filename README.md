@@ -8,6 +8,6 @@ Additionally, the Sign-Up Form project offers a responsive design, making it acc
 
 Overall, the Sign-Up Form project is a practical solution for any website or online service that requires user registration. It streamlines the registration process, improves data accuracy, and enhances user satisfaction.
 
-  ## 📸 Screenshots
+# 📸 Screenshots
 
 ![App Screenshot](https://raw.githubusercontent.com/bogdanblare/Sign-Up-Form/main/Screenshot.png)
